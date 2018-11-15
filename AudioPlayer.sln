@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioPlayer", "AudioPlayer\AudioPlayer.csproj", "{34AFAE0C-2962-44C3-AA72-7D46BA140553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode", "MorseCode\MorseCode.csproj", "{A5B5355A-9545-40BE-B867-B2451312C336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode.Net.Test", "MorseCode.Net.Test\MorseCode.Net.Test.csproj", "{7AC278E2-A231-4FAA-9BE2-42CD86EA2C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AFAE0C-2962-44C3-AA72-7D46BA140553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AFAE0C-2962-44C3-AA72-7D46BA140553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AFAE0C-2962-44C3-AA72-7D46BA140553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AFAE0C-2962-44C3-AA72-7D46BA140553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B5355A-9545-40BE-B867-B2451312C336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B5355A-9545-40BE-B867-B2451312C336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B5355A-9545-40BE-B867-B2451312C336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B5355A-9545-40BE-B867-B2451312C336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC278E2-A231-4FAA-9BE2-42CD86EA2C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC278E2-A231-4FAA-9BE2-42CD86EA2C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC278E2-A231-4FAA-9BE2-42CD86EA2C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC278E2-A231-4FAA-9BE2-42CD86EA2C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D70B03F6-6993-4D3C-9654-D1499EC90791}
+	EndGlobalSection
+EndGlobal
