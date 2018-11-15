@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioPlayer", "AudioPlayer\AudioPlayer.csproj", "{34AFAE0C-2962-44C3-AA72-7D46BA140553}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode.Console", "AudioPlayer\MorseCode.Console.csproj", "{34AFAE0C-2962-44C3-AA72-7D46BA140553}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode", "MorseCode\MorseCode.csproj", "{A5B5355A-9545-40BE-B867-B2451312C336}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode.Net.Test", "MorseCode.Net.Test\MorseCode.Net.Test.csproj", "{7AC278E2-A231-4FAA-9BE2-42CD86EA2C63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode.Test", "MorseCode.Net.Test\MorseCode.Test.csproj", "{7AC278E2-A231-4FAA-9BE2-42CD86EA2C63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
